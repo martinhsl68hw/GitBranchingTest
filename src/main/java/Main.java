@@ -9,6 +9,14 @@ public class Main {
         rt=1;
         for(i=1;i<=5;i++)rt*=i;
         System.out.println(rt);
+        float rp=1;
+        for(i=1;i<=5;i++){
+            rp*=1.4;
+            System.out.println(rp);
+        }
+
+
+
 
     }
 }

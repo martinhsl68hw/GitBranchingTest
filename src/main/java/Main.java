@@ -6,5 +6,9 @@ public class Main {
         int rt=0;
         for (i=30;i<=40;i++)rt+=i;
         System.out.println(rt);
+        rt=1;
+        for(i=1;i<=5;i++)rt*=i;
+        System.out.println(rt);
+
     }
 }
